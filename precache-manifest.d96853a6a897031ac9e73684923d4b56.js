@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cc33fb7eefc12e2b228cc3e4d7c17e1",
+    "revision": "206e5a6edabf8ce5ddfa440abf832e6c",
     "url": "/man-city/index.html"
   },
   {
-    "revision": "e623b112f6bc00aba204",
+    "revision": "a9ea184fea62c1376f51",
     "url": "/man-city/static/css/main.7da2ec40.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/man-city/static/js/2.4d0ac895.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e623b112f6bc00aba204",
-    "url": "/man-city/static/js/main.8f13ef28.chunk.js"
+    "revision": "a9ea184fea62c1376f51",
+    "url": "/man-city/static/js/main.71a97be3.chunk.js"
   },
   {
     "revision": "16a95f677d7558477c17",

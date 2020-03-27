@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/man-city/static/css/main.7da2ec40.chunk.css",
-    "main.js": "/man-city/static/js/main.8f13ef28.chunk.js",
-    "main.js.map": "/man-city/static/js/main.8f13ef28.chunk.js.map",
+    "main.js": "/man-city/static/js/main.71a97be3.chunk.js",
+    "main.js.map": "/man-city/static/js/main.71a97be3.chunk.js.map",
     "runtime-main.js": "/man-city/static/js/runtime-main.83c48947.js",
     "runtime-main.js.map": "/man-city/static/js/runtime-main.83c48947.js.map",
     "static/js/2.4d0ac895.chunk.js": "/man-city/static/js/2.4d0ac895.chunk.js",
     "static/js/2.4d0ac895.chunk.js.map": "/man-city/static/js/2.4d0ac895.chunk.js.map",
     "index.html": "/man-city/index.html",
-    "precache-manifest.8158f0e10416e9d68319380fa9fdf0d0.js": "/man-city/precache-manifest.8158f0e10416e9d68319380fa9fdf0d0.js",
+    "precache-manifest.d96853a6a897031ac9e73684923d4b56.js": "/man-city/precache-manifest.d96853a6a897031ac9e73684923d4b56.js",
     "service-worker.js": "/man-city/service-worker.js",
     "static/css/main.7da2ec40.chunk.css.map": "/man-city/static/css/main.7da2ec40.chunk.css.map",
     "static/js/2.4d0ac895.chunk.js.LICENSE.txt": "/man-city/static/js/2.4d0ac895.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.83c48947.js",
     "static/js/2.4d0ac895.chunk.js",
     "static/css/main.7da2ec40.chunk.css",
-    "static/js/main.8f13ef28.chunk.js"
+    "static/js/main.71a97be3.chunk.js"
   ]
 }
